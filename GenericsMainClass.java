@@ -27,9 +27,9 @@ public class GenericsMainClass {
 		Vehicle vehicle1=new Vehicle("Fiesta" ,"234" , 180);
 		Vehicle vehicle2 = new Vehicle("EcoSport" ,"222" , 180);
 		Vehicle vehicle3 =new Vehicle("Bonoco","567",250);
-    	System.out.println(vehicle1.getHorsePower());
-    	System.out.println(vehicle2.getVin());
-    	System.out.println(vehicle3.getHorsePower());
+    	        System.out.println(vehicle1.getHorsePower());
+    	        System.out.println(vehicle2.getVin());
+    	        System.out.println(vehicle3.getHorsePower());
 		
 		
 		
